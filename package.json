@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "manager": "^1.0.9",
+    "package": "^1.0.1"
+  }
+}
